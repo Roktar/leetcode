@@ -9,4 +9,6 @@
 - 1. Two Sum - 18. 10. 05
 - 2. Add Two Numbers  - 18. 10. 05
 
+##### [20년 6월]
+- 125. Valid Palindrome - 20. 06. 20
 
